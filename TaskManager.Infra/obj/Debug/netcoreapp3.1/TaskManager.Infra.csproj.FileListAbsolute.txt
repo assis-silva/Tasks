@@ -1,0 +1,15 @@
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Infra.deps.json
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Infra.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.csprojAssemblyReference.cache
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.AssemblyInfoInputs.cache
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.AssemblyInfo.cs
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Infra.runtimeconfig.json
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Infra.runtimeconfig.dev.json
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Infra.pdb
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Application.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Domain.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Application.pdb
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\bin\Debug\netcoreapp3.1\TaskManager.Domain.pdb
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.csproj.CopyComplete
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Infra\obj\Debug\netcoreapp3.1\TaskManager.Infra.pdb

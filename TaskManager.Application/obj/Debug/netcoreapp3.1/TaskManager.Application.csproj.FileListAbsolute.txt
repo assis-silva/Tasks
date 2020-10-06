@@ -1,0 +1,11 @@
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\bin\Debug\netcoreapp3.1\TaskManager.Application.deps.json
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\bin\Debug\netcoreapp3.1\TaskManager.Application.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.csprojAssemblyReference.cache
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.AssemblyInfoInputs.cache
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.AssemblyInfo.cs
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\bin\Debug\netcoreapp3.1\TaskManager.Application.pdb
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\bin\Debug\netcoreapp3.1\TaskManager.Domain.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\bin\Debug\netcoreapp3.1\TaskManager.Domain.pdb
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.csproj.CopyComplete
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.dll
+C:\Users\assis\Documents\TaskManager\TaskManager.Application\obj\Debug\netcoreapp3.1\TaskManager.Application.pdb
